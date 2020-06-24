@@ -1,5 +1,5 @@
 # Neuroevolution
-This repository is mainly for displaying my resources which I have studied Neuroevolution
+This repository is mainly for displaying my resources which I have studied during Neuroevolution
 
 # Papers
 1. Evolutionary Optimization of Deep Learning Activation Functions by Garrett Bingham, William Macke, Risto Miikulainen
