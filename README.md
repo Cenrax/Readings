@@ -11,3 +11,5 @@ This repository is mainly for displaying my resources which I have studied durin
 
 # Books
 1. Iaroslav Omelianenko - Hands-On Neuroevolution with Python_ Build high-performing artificial neural network architectures using neuroevolution-based algorithms-Packt Publishing (2019)
+
+# Videos
