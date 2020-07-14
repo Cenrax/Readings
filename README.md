@@ -36,4 +36,4 @@ This repository is mainly for displaying my resources which I have studied durin
 
 ## Videos
 
-1. Neuroevolution from Youtube videos
+1. Neuroevolution from Youtube video
