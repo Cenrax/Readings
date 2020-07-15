@@ -11,9 +11,13 @@
 ## Books
 
 ## Videos
+<<<<<<< HEAD
 
 
 
+=======
+1. https://www.youtube.com/watch?v=MhNcWxUs-PQ  --> For getting idea of adversarial training, projected gradient descent
+>>>>>>> 9994066eb4c2e3ac7d8b446217d9db47ac0b09f5
 
 # Computer Vision
 
