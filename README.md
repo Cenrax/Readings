@@ -23,6 +23,7 @@
 # Wireless Communication
 
 ## Papers
+1.  Graph Neural Networks for Massive MIMO Detection. Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang
 
 ## Books
 
