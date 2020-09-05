@@ -56,9 +56,9 @@ This repository is mainly for displaying my resources which I have studied durin
 ## Papers
 1. TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN Keith Bonawitz 1 Hubert Eichner 1 Wolfgang Grieskamp 1 Dzmitry Huba 1 Alex Ingerman 1 Vladimir Ivanov 1
 Chlo´e Kiddon 1 Jakub Koneˇcn´y 1 Stefano Mazzocchi 1 H. Brendan McMahan
-2.
-3.
-4.
+2. Advances and Open Problems in Federated Learning
+3. Circuit-Based Intrinsic Methods to Detect Overfitting
+4. Concise Explanations of Neural Networks using Adversarial Training
 ## Books
 
 
