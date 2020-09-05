@@ -26,7 +26,7 @@
 ## Papers
 1.  Graph Neural Networks for Massive MIMO Detection. Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang
 2.  Current and future developments to improve 5G‑NewRadio performance in vehicle‑to‑everything communications
-3.  
+3.  A trusted node–free eight-user metropolitan quantum communication network
 
 ## Books
 
@@ -54,7 +54,7 @@ This repository is mainly for displaying my resources which I have studied durin
 1. Neuroevolution from Youtube video
 
 # Federated Learning
-This repository is mainly for displaying my resources which I have studied during Neuroevolution
+This repository is mainly for displaying my resources which I have studied during learning federated Learning
 
 ## Papers
 1. TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN Keith Bonawitz 1 Hubert Eichner 1 Wolfgang Grieskamp 1 Dzmitry Huba 1 Alex Ingerman 1 Vladimir Ivanov 1
