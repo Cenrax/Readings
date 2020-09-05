@@ -27,6 +27,12 @@
 
 ## Books
 
+## Blogs
+1. 
+
+## Datasets
+- https://catalog.data.gov/dataset/rf-dataset-of-incumbent-radar-systems-in-the-3-5-ghz-cbrs-band ---> Radar Dataset at 3.5 Ghz
+
 # Neuroevolution
 This repository is mainly for displaying my resources which I have studied during Neuroevolution
 
