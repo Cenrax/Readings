@@ -24,6 +24,8 @@
 
 ## Papers
 1.  Graph Neural Networks for Massive MIMO Detection. Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang
+2.  Current and future developments to improve 5G‑NewRadio performance in vehicle‑to‑everything communications
+3.  
 
 ## Books
 
