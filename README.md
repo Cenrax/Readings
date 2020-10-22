@@ -68,3 +68,6 @@ Chlo´e Kiddon 1 Jakub Koneˇcn´y 1 Stefano Mazzocchi 1 H. Brendan McMahan
 ## Videos
 1. https://youtu.be/89BGjQYA0uE
 
+## End to end ML deployment
+https://towardsdatascience.com/designing-ml-orchestration-systems-for-startups-202e527d7897
+
