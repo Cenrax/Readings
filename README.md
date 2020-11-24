@@ -14,7 +14,9 @@
 ## Videos
 1. https://www.youtube.com/watch?v=MhNcWxUs-PQ  --> For getting idea of adversarial training, projected gradient descent
 
-
+## Blogs
+- https://theaisummer.com/normalization/  --> Normalization one place resource
+- https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338   --> Batch Normalization
 # Computer Vision
 
 ## Papers
