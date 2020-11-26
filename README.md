@@ -3,7 +3,7 @@
 ## In these repo I am maintaining the paper names which I read daily
 
 - https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
-# Deep Learning
+# ML DL and FL
 
 ## Papers
 
@@ -18,6 +18,7 @@
 - https://theaisummer.com/normalization/  --> Normalization one place resource
 - https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338   --> Batch Normalization
 - https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
+- https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427 -> All needed to understand Apache Spark
 # Computer Vision
 
 ## Papers
