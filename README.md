@@ -17,6 +17,7 @@
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
 - https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338   --> Batch Normalization
+- https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
 # Computer Vision
 
 ## Papers
