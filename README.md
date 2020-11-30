@@ -20,6 +20,10 @@
 - https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
 - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427 -> All needed to understand Apache Spark
 - https://www.springboard.com/blog/machine-learning-interview-questions/ --> Interview Questions on a role
+
+## Products
+- https://www.salesforce.com/in/products/einstein/overview/
+- https://eng.uber.com/horovod-v0-21/
 # Computer Vision
 
 ## Papers
