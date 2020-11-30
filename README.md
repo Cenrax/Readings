@@ -20,6 +20,7 @@
 - https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
 - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427 -> All needed to understand Apache Spark
 - https://www.springboard.com/blog/machine-learning-interview-questions/ --> Interview Questions on a role
+- https://engineering.linkedin.com/blog/2020/open-sourcing-dagli --> Open source framework for Machine Learning in Dagli provided by Linkedin
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
