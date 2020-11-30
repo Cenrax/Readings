@@ -25,6 +25,9 @@
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
+
+## Tools
+- https://github.com/lux-org/lux
 # Computer Vision
 
 ## Papers
