@@ -27,7 +27,7 @@
 - https://eng.uber.com/horovod-v0-21/
 
 ## Tools
-- https://github.com/lux-org/lux
+- https://github.com/lux-org/lux  --> Automation for Data Analysis in Python Notebook
 # Computer Vision
 
 ## Papers
