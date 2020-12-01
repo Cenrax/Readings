@@ -26,6 +26,9 @@
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
 
+## Workshops
+- https://medium.com/@ODSC/8-game-changing-workshop-sessions-at-odsc-apac-2020-a17eeea2d7aa
+
 ## Tools
 - https://github.com/lux-org/lux  --> Automation for Data Analysis in Python Notebook
 # Computer Vision
