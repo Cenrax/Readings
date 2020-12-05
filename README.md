@@ -41,6 +41,7 @@
 - https://madewithml.com/courses/applied-ml-in-production/
 - https://github.com/graykode/nlp-tutorial
 - https://notebooks.quantumstat.com/ --> The super Nlp repo
+- https://github.com/jmugan/modern_practical_nlp
 # Computer Vision
 
 ## Papers
