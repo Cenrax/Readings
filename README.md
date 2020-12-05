@@ -21,6 +21,11 @@
 - https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427 -> All needed to understand Apache Spark
 - https://www.springboard.com/blog/machine-learning-interview-questions/ --> Interview Questions on a role
 - https://engineering.linkedin.com/blog/2020/open-sourcing-dagli --> Open source framework for Machine Learning in Dagli provided by Linkedin
+- https://towardsdatascience.com/creating-the-whole-machine-learning-pipeline-with-pycaret-db39a3006840 --> Complete machine learninig pipeline using pycaret
+- https://towardsdatascience.com/aws-lambda-7-things-i-wished-someone-told-me-63ec2021a772 --> AWS Lambda
+- https://www.saturncloud.io/s/computer-vision-at-scale-with-dask-and-pytorch/ --> Dask and Computer Vision
+- https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392 --> 130 data science projects
+- https://medium.com/datadriveninvestor/apples-m1-chip-is-exactly-what-machine-learning-needs-507db0d646ae --> Apple M1 chip explanation
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
