@@ -46,6 +46,8 @@
 - https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/ --> scalable deep learning
 - https://course.spacy.io/en/ --> Excellent course
 - https://dafriedman97.github.io/mlbook/content/introduction.html  --> ML book for revision
+- https://github.com/jghoman/awesome-apache-airflow --> Airflow Tutorials
+- https://perceptilabs.com/home  -- Visual GUI for Machine Learning
 # Computer Vision
 
 ## Papers
