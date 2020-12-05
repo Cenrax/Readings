@@ -26,6 +26,7 @@
 - https://www.saturncloud.io/s/computer-vision-at-scale-with-dask-and-pytorch/ --> Dask and Computer Vision
 - https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392 --> 130 data science projects
 - https://medium.com/datadriveninvestor/apples-m1-chip-is-exactly-what-machine-learning-needs-507db0d646ae --> Apple M1 chip explanation
+- https://www.tecton.ai/blog/devops-ml-data/ --> Why do we need Devops for ML?
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
