@@ -42,6 +42,10 @@
 - https://github.com/graykode/nlp-tutorial
 - https://notebooks.quantumstat.com/ --> The super Nlp repo
 - https://github.com/jmugan/modern_practical_nlp
+- https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/
+- https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/ --> scalable deep learning
+- https://course.spacy.io/en/ --> Excellent course
+- https://dafriedman97.github.io/mlbook/content/introduction.html  --> ML book for revision
 # Computer Vision
 
 ## Papers
