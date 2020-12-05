@@ -38,6 +38,9 @@
 ## Tools
 - https://github.com/lux-org/lux  --> Automation for Data Analysis in Python Notebook
 - https://github.com/ritchieng/the-incredible-pytorch
+- https://madewithml.com/courses/applied-ml-in-production/
+- https://github.com/graykode/nlp-tutorial
+- https://notebooks.quantumstat.com/ --> The super Nlp repo
 # Computer Vision
 
 ## Papers
