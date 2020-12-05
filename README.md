@@ -37,6 +37,7 @@
 
 ## Tools
 - https://github.com/lux-org/lux  --> Automation for Data Analysis in Python Notebook
+- https://github.com/ritchieng/the-incredible-pytorch
 # Computer Vision
 
 ## Papers
