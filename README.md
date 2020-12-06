@@ -49,6 +49,8 @@
 - https://dafriedman97.github.io/mlbook/content/introduction.html  --> ML book for revision
 - https://github.com/jghoman/awesome-apache-airflow --> Airflow Tutorials
 - https://perceptilabs.com/home  -- Visual GUI for Machine Learning
+- https://ray.io/ --> Distributed Computing
+- https://github.com/OpenMined/PySyft --> OpenSource Librart for Federated learning
 # Computer Vision
 
 ## Papers
