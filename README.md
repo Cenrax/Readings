@@ -28,6 +28,7 @@
 - https://medium.com/datadriveninvestor/apples-m1-chip-is-exactly-what-machine-learning-needs-507db0d646ae --> Apple M1 chip explanation
 - https://www.tecton.ai/blog/devops-ml-data/ --> Why do we need Devops for ML?
 - https://towardsdatascience.com/execute-jupyter-notebook-as-a-pipeline-step-4dba8c45aebf --> Use jupyter-notebook as a pipeline
+- https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4 --> End to End ML pipeline
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
