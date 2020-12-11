@@ -54,6 +54,7 @@
 - https://ray.io/ --> Distributed Computing
 - https://github.com/OpenMined/PySyft --> OpenSource Librart for Federated learning
 - https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83 --> Tools for visualization in python
+- https://faker.readthedocs.io/en/master/providers/faker.providers.python.html --> Excellent Tool for generation of dummy data
 # Computer Vision
 
 ## Papers
