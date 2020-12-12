@@ -37,6 +37,7 @@
 - https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4 --> End to End ML pipeline
 - https://developers.google.com/machine-learning/glossary#t
 - https://medium.com/dataseries/how-linkedin-uses-machine-learning-in-its-recruiter-recommendation-systems-5b1735df87d4
+- https://medium.com/dataseries/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-2361a8623aa8
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
