@@ -36,6 +36,7 @@
 - https://towardsdatascience.com/execute-jupyter-notebook-as-a-pipeline-step-4dba8c45aebf --> Use jupyter-notebook as a pipeline
 - https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4 --> End to End ML pipeline
 - https://developers.google.com/machine-learning/glossary#t
+- https://medium.com/dataseries/how-linkedin-uses-machine-learning-in-its-recruiter-recommendation-systems-5b1735df87d4
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
