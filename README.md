@@ -38,6 +38,7 @@
 - https://developers.google.com/machine-learning/glossary#t
 - https://medium.com/dataseries/how-linkedin-uses-machine-learning-in-its-recruiter-recommendation-systems-5b1735df87d4
 - https://medium.com/dataseries/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-2361a8623aa8
+- https://becominghuman.ai/top-and-free-open-source-machine-learning-pre-trained-models-for-transfer-learning-model-training-9703bb60d0e6 --> 
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
