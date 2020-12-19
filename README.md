@@ -40,6 +40,7 @@
 - https://medium.com/dataseries/how-linkedin-uber-lyft-airbnb-and-netflix-are-solving-data-management-and-discovery-for-machine-2361a8623aa8
 - https://becominghuman.ai/top-and-free-open-source-machine-learning-pre-trained-models-for-transfer-learning-model-training-9703bb60d0e6 --> 
 - https://blog.openmined.org/ --> Excellent tools for Privacy learning
+- https://medium.com/better-programming/how-to-improve-your-dev-skills-all-year-long-in-2021-bab12d042f6a --> 2021
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
