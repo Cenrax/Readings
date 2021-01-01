@@ -44,6 +44,7 @@
 - https://medium.com/better-programming/how-to-create-trusted-ssl-certificates-for-your-local-development-13fd5aad29c6
 - http://machinethinker.com/2017/09/11/a-simple-introduction-to-kullback-leibler-divergence-through-python-code/ -> Kl Divergence
 - https://www.microprediction.com/blog/popular-timeseries-packages --> Time series packages
+- https://medium.com/towards-artificial-intelligence/top-10-computer-vision-papers-2020-aa606985f688
 
 
 ## Products
