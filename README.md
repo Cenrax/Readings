@@ -43,6 +43,7 @@
 - https://medium.com/better-programming/how-to-improve-your-dev-skills-all-year-long-in-2021-bab12d042f6a --> 2021
 - https://medium.com/better-programming/how-to-create-trusted-ssl-certificates-for-your-local-development-13fd5aad29c6
 - http://machinethinker.com/2017/09/11/a-simple-introduction-to-kullback-leibler-divergence-through-python-code/ -> Kl Divergence
+- https://www.microprediction.com/blog/popular-timeseries-packages --> Time series packages
 
 
 ## Products
