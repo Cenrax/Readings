@@ -45,6 +45,7 @@
 - http://machinethinker.com/2017/09/11/a-simple-introduction-to-kullback-leibler-divergence-through-python-code/ -> Kl Divergence
 - https://www.microprediction.com/blog/popular-timeseries-packages --> Time series packages
 - https://medium.com/towards-artificial-intelligence/top-10-computer-vision-papers-2020-aa606985f688
+- https://docs.edgeimpulse.com/docs/audio-classification?utm_source=aidigest&utm_medium=email&utm_campaign=137 
 
 
 ## Products
