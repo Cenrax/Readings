@@ -47,6 +47,7 @@
 - https://medium.com/towards-artificial-intelligence/top-10-computer-vision-papers-2020-aa606985f688
 - https://docs.edgeimpulse.com/docs/audio-classification?utm_source=aidigest&utm_medium=email&utm_campaign=137 
 - https://datascience-enthusiast.com/DL/Optimization_methods.html --> Optimization Methods
+- https://www.kdnuggets.com/2021/01/machine-learning-algorithms-2021.html --> Intuitive Blog on Machine Learning Algorithms
 
 
 ## Products
