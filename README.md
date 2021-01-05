@@ -46,6 +46,7 @@
 - https://www.microprediction.com/blog/popular-timeseries-packages --> Time series packages
 - https://medium.com/towards-artificial-intelligence/top-10-computer-vision-papers-2020-aa606985f688
 - https://docs.edgeimpulse.com/docs/audio-classification?utm_source=aidigest&utm_medium=email&utm_campaign=137 
+- https://datascience-enthusiast.com/DL/Optimization_methods.html --> Optimization Methods
 
 
 ## Products
@@ -79,20 +80,7 @@
 
 ## Books
 
-# Wireless Communication
 
-## Papers
-1.  Graph Neural Networks for Massive MIMO Detection. Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang
-2.  Current and future developments to improve 5G‑NewRadio performance in vehicle‑to‑everything communications
-3.  A trusted node–free eight-user metropolitan quantum communication network
-
-## Books
-
-## Blogs
-1. 
-
-## Datasets
-- https://catalog.data.gov/dataset/rf-dataset-of-incumbent-radar-systems-in-the-3-5-ghz-cbrs-band ---> Radar Dataset at 3.5 Ghz
 
 # Neuroevolution
 This repository is mainly for displaying my resources which I have studied during Neuroevolution
