@@ -49,7 +49,6 @@
 - https://datascience-enthusiast.com/DL/Optimization_methods.html --> Optimization Methods
 - https://www.kdnuggets.com/2021/01/machine-learning-algorithms-2021.html --> Intuitive Blog on Machine Learning Algorithms
 
-
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
@@ -75,6 +74,7 @@
 - https://medium.com/spatial-data-science/the-best-tools-for-dashboarding-in-python-b22975cb4b83 --> Tools for visualization in python
 - https://faker.readthedocs.io/en/master/providers/faker.providers.python.html --> Excellent Tool for generation of dummy data
 - https://github.com/jrieke/traingenerator - A web app to generate template for machine learning
+- https://www.kdnuggets.com/2021/01/catalyzex-browser-extension-machine-learning.html - Tool for finding paper
 # Computer Vision
 
 ## Papers
