@@ -76,6 +76,10 @@
 - https://faker.readthedocs.io/en/master/providers/faker.providers.python.html --> Excellent Tool for generation of dummy data
 - https://github.com/jrieke/traingenerator - A web app to generate template for machine learning
 - https://www.kdnuggets.com/2021/01/catalyzex-browser-extension-machine-learning.html - Tool for finding paper
+
+## Interesting papers:
+- https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
+- 
 # Computer Vision
 
 ## Papers
