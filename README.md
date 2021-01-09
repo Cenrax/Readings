@@ -50,6 +50,7 @@
 - https://www.kdnuggets.com/2021/01/machine-learning-algorithms-2021.html --> Intuitive Blog on Machine Learning Algorithms
 - https://towardsdatascience.com/xai-build-your-own-deep-learning-interpretation-algorithm-6e471b59af7 --> Build your own deep learning interpretation
 - https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html --> An end to end Neural Network that can chat about anything
+- https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
