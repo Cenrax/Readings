@@ -59,7 +59,7 @@
 ## Workshops
 - https://medium.com/@ODSC/8-game-changing-workshop-sessions-at-odsc-apac-2020-a17eeea2d7aa
 
-## Tools
+## Tools and Repo
 - https://github.com/lux-org/lux  --> Automation for Data Analysis in Python Notebook
 - https://github.com/ritchieng/the-incredible-pytorch
 - https://madewithml.com/courses/applied-ml-in-production/
@@ -78,6 +78,7 @@
 - https://faker.readthedocs.io/en/master/providers/faker.providers.python.html --> Excellent Tool for generation of dummy data
 - https://github.com/jrieke/traingenerator - A web app to generate template for machine learning
 - https://www.kdnuggets.com/2021/01/catalyzex-browser-extension-machine-learning.html - Tool for finding paper
+- https://github.com/lucidrains/vit-pytorch --> Vision Transformer in Pytorch
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
