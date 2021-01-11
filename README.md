@@ -51,7 +51,7 @@
 - https://towardsdatascience.com/xai-build-your-own-deep-learning-interpretation-algorithm-6e471b59af7 --> Build your own deep learning interpretation
 - https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html --> An end to end Neural Network that can chat about anything
 - https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/
-
+- https://towardsdatascience.com/a-deep-learning-based-method-for-synthesizing-data-with-an-application-in-financial-transactions-9c3936423d9a
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
