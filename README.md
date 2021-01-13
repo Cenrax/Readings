@@ -52,6 +52,7 @@
 - https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html --> An end to end Neural Network that can chat about anything
 - https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/
 - https://towardsdatascience.com/a-deep-learning-based-method-for-synthesizing-data-with-an-application-in-financial-transactions-9c3936423d9a
+- https://medium.com/better-programming/create-a-zero-downtime-deployment-of-your-machine-learning-api-6486cb6394c3 -- Architecture
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
