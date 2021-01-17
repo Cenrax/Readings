@@ -12,7 +12,9 @@
 ## Books
 
 ## Videos
-1. https://www.youtube.com/watch?v=MhNcWxUs-PQ  --> For getting idea of adversarial training, projected gradient descent
+- https://www.youtube.com/watch?v=MhNcWxUs-PQ  --> For getting idea of adversarial training, projected gradient descent
+- https://www.in.tum.de/daml/teaching/mlgs/ --> Machine Learning for Graphs and Sequential Data (MLGS)
+
 
 ## Insights Articles
 
