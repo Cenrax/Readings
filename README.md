@@ -88,9 +88,9 @@
 - 
 # Computer Vision
 
-## Papers
+## Blogs
+- https://www.microsoft.com/en-us/research/blog/vinvl-advancing-the-state-of-the-art-for-vision-language-models/?utm_source=aidigest&utm_medium=email&utm_campaign=139
 
-## Books
 
 
 
