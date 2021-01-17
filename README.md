@@ -55,6 +55,7 @@
 - https://medium.com/better-programming/create-a-zero-downtime-deployment-of-your-machine-learning-api-6486cb6394c3 -- Architecture
 - https://towardsdatascience.com/enabling-accurate-computer-vision-on-tiny-microcontrollers-with-rnnpool-operator-and-seedot-d6944930dcf9
 - https://tfhub.dev/google/boundless/quarter/1 -> Image Extrapolation Using GAN
+
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
@@ -82,6 +83,7 @@
 - https://github.com/jrieke/traingenerator - A web app to generate template for machine learning
 - https://www.kdnuggets.com/2021/01/catalyzex-browser-extension-machine-learning.html - Tool for finding paper
 - https://github.com/lucidrains/vit-pytorch --> Vision Transformer in Pytorch
+- https://github.com/volotat/DiffMorph?utm_source=aidigest&utm_medium=email&utm_campaign=139 -> Differential Morphing
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
