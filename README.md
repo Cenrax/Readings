@@ -27,6 +27,7 @@
 - https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0 - State of the AI report 2020
 - https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html -> Google research summary in 2020
 - https://www.mygreatlearning.com/blog/artificial-intelligence-documentaries?utm_source=email&utm_medium=email&utm_campaign=aiml_blog_18jan_leads_en -> Top Documentaries till date on Artificial Intelligence
+- https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/ --> Adversarial Network
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
