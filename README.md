@@ -94,6 +94,7 @@
 - https://github.com/lucidrains/vit-pytorch --> Vision Transformer in Pytorch
 - https://github.com/volotat/DiffMorph?utm_source=aidigest&utm_medium=email&utm_campaign=139 -> Differential Morphing
 - https://github.com/robustness-gym/robustness-gym --> A tool to check the robustness of a NLP MODEL
+- https://github.com/drivendataorg/open-cities-ai-challenge -->
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
