@@ -28,6 +28,7 @@
 - https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html -> Google research summary in 2020
 - https://www.mygreatlearning.com/blog/artificial-intelligence-documentaries?utm_source=email&utm_medium=email&utm_campaign=aiml_blog_18jan_leads_en -> Top Documentaries till date on Artificial Intelligence
 - https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/ --> Adversarial Network
+- https://opendatascience.com/top-14-nlp-job-ready-skills-for-2021/?utm_campaign=Newsletters&utm_medium=email&_hsmi=107377518&_hsenc=p2ANqtz-9yVaYI2VCH0wevVcUVK4lgEOfbRE5pngyO0DGetDNz7PRQJp6RR7-VP3447cBbbVUoe9TR44o_hWhDaL2iJYhydlKa0w&utm_content=107377518&utm_source=hs_email --> Trending skills to acquire in 2021 in nlp
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
