@@ -64,6 +64,7 @@
 - https://medium.com/better-programming/create-a-zero-downtime-deployment-of-your-machine-learning-api-6486cb6394c3 -- Architecture
 - https://towardsdatascience.com/enabling-accurate-computer-vision-on-tiny-microcontrollers-with-rnnpool-operator-and-seedot-d6944930dcf9
 - https://tfhub.dev/google/boundless/quarter/1 -> Image Extrapolation Using GAN
+- https://towardsdatascience.com/predicting-t20-cricket-matches-with-a-ball-simulation-model-1e9cae5dea22 -> predicting t20 matches
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
