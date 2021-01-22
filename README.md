@@ -66,6 +66,7 @@
 - https://towardsdatascience.com/enabling-accurate-computer-vision-on-tiny-microcontrollers-with-rnnpool-operator-and-seedot-d6944930dcf9
 - https://tfhub.dev/google/boundless/quarter/1 -> Image Extrapolation Using GAN
 - https://towardsdatascience.com/predicting-t20-cricket-matches-with-a-ball-simulation-model-1e9cae5dea22 -> predicting t20 matches
+- https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c --> Tensorflow 2.0
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
