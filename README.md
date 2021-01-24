@@ -100,6 +100,7 @@
 - https://github.com/robustness-gym/robustness-gym --> A tool to check the robustness of a NLP MODEL
 - https://github.com/drivendataorg/open-cities-ai-challenge -->
 - https://dagshub.com/blog/datasets-should-behave-like-git-repositories/?utm_source=aidigest&utm_medium=email&utm_campaign=140 --> Datasets should behave like Github repo
+- https://eng.uber.com/gairos-scalability/ --> Gairos Stability
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
