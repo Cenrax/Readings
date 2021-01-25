@@ -30,6 +30,7 @@
 - https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/ --> Adversarial Network
 - https://opendatascience.com/top-14-nlp-job-ready-skills-for-2021/?utm_campaign=Newsletters&utm_medium=email&_hsmi=107377518&_hsenc=p2ANqtz-9yVaYI2VCH0wevVcUVK4lgEOfbRE5pngyO0DGetDNz7PRQJp6RR7-VP3447cBbbVUoe9TR44o_hWhDaL2iJYhydlKa0w&utm_content=107377518&utm_source=hs_email --> Trending skills to acquire in 2021 in nlp
 - https://www.mygreatlearning.com/blog/machine-learning-interview-questions?utm_source=email&utm_medium=email&utm_campaign=aiml_blog_25jan --> Machine Learning Interview Questions
+- https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/ --> Three Mysteries in deep learning explained by Microsoft
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
