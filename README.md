@@ -70,6 +70,7 @@
 - https://towardsdatascience.com/predicting-t20-cricket-matches-with-a-ball-simulation-model-1e9cae5dea22 -> predicting t20 matches
 - https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c --> Tensorflow 2.0
 - https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning?utm_source=aidigest&utm_medium=email&utm_campaign=140 --> Predicting Hard-drive failure using machine learning
+- https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8 --> Modern Recommender Systems
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
