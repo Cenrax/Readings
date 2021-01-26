@@ -71,6 +71,8 @@
 - https://jonathan-hui.medium.com/tensorflow-2-series-6fe39ef1614c --> Tensorflow 2.0
 - https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning?utm_source=aidigest&utm_medium=email&utm_campaign=140 --> Predicting Hard-drive failure using machine learning
 - https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8 --> Modern Recommender Systems
+- https://towardsdatascience.com/a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d
+- https://towardsdatascience.com/the-tradeoffs-behind-modern-storage-systems-5bf8db680982 -->> Tradeoffs Behind Modern Storage Systems
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
