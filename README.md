@@ -76,6 +76,7 @@
 - https://towardsdatascience.com/ci-cd-by-example-in-python-46f1533cb09d --> CI CD Example in Python
 = https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/ --> LEAF Framework
 - https://towardsdatascience.com/real-world-ml-warehouse-recognition-system-7b0e8dee373c ---> Real World ML Warehouse Recognition
+- https://www.endpoint.com/blog/2019/06/28/deploying-production-pipelines-to-kubernetes --> Deploying production pipelines to kubernetes
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
