@@ -77,6 +77,7 @@
 - https://towardsdatascience.com/the-tradeoffs-behind-modern-storage-systems-5bf8db680982 --> Tradeoffs Behind Modern Storage Systems
 - https://towardsdatascience.com/ci-cd-by-example-in-python-46f1533cb09d --> CI CD Example in Python
 = https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/ --> LEAF Framework
+### February
 - https://towardsdatascience.com/real-world-ml-warehouse-recognition-system-7b0e8dee373c ---> Real World ML Warehouse Recognition
 - https://www.endpoint.com/blog/2019/06/28/deploying-production-pipelines-to-kubernetes --> Deploying production pipelines to kubernetes
 - https://engineering.q42.nl/hack-the-poacher/?utm_source=aidigest&utm_medium=email&utm_campaign=141 --> Protecting wildlife with machine learning
