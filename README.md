@@ -115,6 +115,7 @@
 - https://dagshub.com/blog/datasets-should-behave-like-git-repositories/?utm_source=aidigest&utm_medium=email&utm_campaign=140 --> Datasets should behave like Github repo
 - https://eng.uber.com/gairos-scalability/ --> Gairos Stability
 - https://arxiv.org/abs/2101.06871 --> CheXtransfer: Performance and Parameter Efficiency of ImageNet Models for Chest X-Ray Interpretation
+- https://github.com/EthicalML/awesome-production-machine-learning --> Awesome Production Based Machine Learning
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
