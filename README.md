@@ -82,6 +82,7 @@
 - https://www.endpoint.com/blog/2019/06/28/deploying-production-pipelines-to-kubernetes --> Deploying production pipelines to kubernetes
 - https://engineering.q42.nl/hack-the-poacher/?utm_source=aidigest&utm_medium=email&utm_campaign=141 --> Protecting wildlife with machine learning
 - https://becominghuman.ai/top-5-unknown-automated-machine-learning-automl-repository-on-github-to-help-you-through-your-9dcb3c6fc62e
+- https://towardsdatascience.com/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
