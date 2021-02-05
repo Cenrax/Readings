@@ -120,6 +120,7 @@
 - https://eng.uber.com/gairos-scalability/ --> Gairos Stability
 - https://arxiv.org/abs/2101.06871 --> CheXtransfer: Performance and Parameter Efficiency of ImageNet Models for Chest X-Ray Interpretation
 - https://github.com/EthicalML/awesome-production-machine-learning --> Awesome Production Based Machine Learning
+- https://awesomedataengineering.com/ --> Data Engineering Repo
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
