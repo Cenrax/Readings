@@ -86,6 +86,7 @@
 - https://towardsdatascience.com/clothes-classification-with-the-deepfashion-dataset-and-fast-ai-1e174cbf0cdc
 - https://towardsdatascience.com/answering-the-fermi-question-is-ai-our-great-filter-56bd7f8fb44d
 - https://www.pyimagesearch.com/2021/02/08/histogram-matching-with-opencv-scikit-image-and-python/ --> Histogram Matching with Histogram
+- https://arxiv.org/abs/2102.00176 --> Can we automate Scientific viewing?
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
