@@ -88,6 +88,7 @@
 - https://www.pyimagesearch.com/2021/02/08/histogram-matching-with-opencv-scikit-image-and-python/ --> Histogram Matching with Histogram
 - https://arxiv.org/abs/2102.00176 --> Can we automate Scientific viewing?
 - https://medium.com/syncedreview/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-dfe63f743ccb
+- https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
