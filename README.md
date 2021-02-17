@@ -91,6 +91,7 @@
 - https://medium.com/syncedreview/icmi-2020-best-paper-gesticulator-a-framework-for-semantically-aware-speech-driven-gesture-dfe63f743ccb
 - https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/
 - https://www.pyimagesearch.com/2021/02/15/automatic-color-correction-with-opencv-and-python/
+- https://towardsdatascience.com/machine-learning-regularization-techniques-in-real-life-your-dogs-nap-time-as-a-regularized-9c533510fe83
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
