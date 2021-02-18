@@ -92,6 +92,7 @@
 - https://www.quantamagazine.org/brains-background-noise-may-hold-clues-to-persistent-mysteries-20210208/
 - https://www.pyimagesearch.com/2021/02/15/automatic-color-correction-with-opencv-and-python/
 - https://towardsdatascience.com/machine-learning-regularization-techniques-in-real-life-your-dogs-nap-time-as-a-regularized-9c533510fe83
+- https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
