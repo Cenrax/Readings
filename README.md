@@ -35,6 +35,7 @@
 - https://engineering.fb.com/2021/01/26/ml-applications/news-feed-ranking/
 - https://www.paperswithcode.com/datasets -->
 - https://engineering.atspotify.com/2016/02/25/spotifys-event-delivery-the-road-to-the-cloud-part-i/  -->
+- https://towardsdatascience.com/five-essential-methods-to-creating-a-great-data-scientist-resume-8c5f377d793b
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
