@@ -94,7 +94,7 @@
 - https://www.pyimagesearch.com/2021/02/15/automatic-color-correction-with-opencv-and-python/
 - https://towardsdatascience.com/machine-learning-regularization-techniques-in-real-life-your-dogs-nap-time-as-a-regularized-9c533510fe83
 - https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a
-
+- https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
