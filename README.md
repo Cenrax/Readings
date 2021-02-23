@@ -96,6 +96,7 @@
 - https://towardsdatascience.com/xgbse-improving-xgboost-for-survival-analysis-393d47f1384a
 - https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/
 - https://opensource.com/article/21/2/kubernetes-namespaces
+- https://towardsdatascience.com/a-hands-on-tutorial-to-continuous-deployment-pipelines-for-ml-based-web-apps-on-google-cloud-ba3957c87bc1
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
