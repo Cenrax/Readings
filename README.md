@@ -80,6 +80,7 @@
 - https://towardsdatascience.com/the-tradeoffs-behind-modern-storage-systems-5bf8db680982 --> Tradeoffs Behind Modern Storage Systems
 - https://towardsdatascience.com/ci-cd-by-example-in-python-46f1533cb09d --> CI CD Example in Python
 = https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/ --> LEAF Framework
+
 ### February
 - https://towardsdatascience.com/real-world-ml-warehouse-recognition-system-7b0e8dee373c ---> Real World ML Warehouse Recognition
 - https://www.endpoint.com/blog/2019/06/28/deploying-production-pipelines-to-kubernetes --> Deploying production pipelines to kubernetes
@@ -97,6 +98,7 @@
 - https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/
 - https://opensource.com/article/21/2/kubernetes-namespaces
 - https://towardsdatascience.com/a-hands-on-tutorial-to-continuous-deployment-pipelines-for-ml-based-web-apps-on-google-cloud-ba3957c87bc1
+- https://towardsdatascience.com/end-to-end-deep-learning-a-different-perspective-de9467697bf0 --> 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
