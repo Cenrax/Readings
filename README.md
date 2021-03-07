@@ -142,6 +142,7 @@
 - https://awesomedataengineering.com/ --> Data Engineering Repo
 - https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html
 - https://notebooks.quantumstat.com/
+- https://github.com/replicate/keepsake
 
 ## Interesting papers:
 - https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale
