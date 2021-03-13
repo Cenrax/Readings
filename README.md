@@ -17,7 +17,7 @@
 - https://www.youtube.com/playlist?list=PLXq1U9RxZE5qjvs2Fa11Chqj8RZ-rTXMn --> Data Systems for Machine Learning
 - https://mediaspace.illinois.edu/channel/ECE%20417/26816181 --> Multimedia Signal Processing
 - https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y --> Reliable and Interpretable Machine Learning
-- https://www.youtube.com/playlist?list=PL6liSIqFR4BXwM5xzZpRBUD8PWqSXaPpN --> Uncertainity modelling in AI explained well
+- https://www.youtube.com/playlist?list=PL6liSIqFR4BXwM5xzZpRBUD8PWqSXaPpN --> Uncertainity modelling in AI explained well.
 
 
 ## Insights Articles
