@@ -107,6 +107,7 @@
 - https://www.tensorflow.org/tfx/tutorials
 - https://zeromq.org/
 - https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:1041799?utm_source=aidigest&utm_medium=email&utm_campaign=147
+- https://github.com/google/model_search
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
