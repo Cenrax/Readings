@@ -110,6 +110,7 @@
 - https://github.com/google/model_search
 - https://towardsdatascience.com/4-ways-to-improve-class-imbalance-for-image-data-9adec8f390f1
 - https://speechbrain.readthedocs.io/en/latest/installation.html#
+- https://justdothebasics.com/2021/03/22/microsoft-security-saturday-oof-edition-03-21-2021/amp/?_lrsc=27057099-6a04-463c-8a22-dc7650f4131c
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
