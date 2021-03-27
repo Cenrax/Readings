@@ -27,7 +27,7 @@
 - https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0 - State of the AI report 2020
 - https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html -> Google research summary in 2020
 - https://www.mygreatlearning.com/blog/artificial-intelligence-documentaries?utm_source=email&utm_medium=email&utm_campaign=aiml_blog_18jan_leads_en -> Top Documentaries till date on Artificial Intelligence
-- https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/ --> Adversarial Network
+- https://venturebeat.com/2021/01/08/is-neuroscience-the-key-to-protecting-ai-from-adversarial-attacks/ --> Adversarial Network.
 - https://opendatascience.com/top-14-nlp-job-ready-skills-for-2021/?utm_campaign=Newsletters&utm_medium=email&_hsmi=107377518&_hsenc=p2ANqtz-9yVaYI2VCH0wevVcUVK4lgEOfbRE5pngyO0DGetDNz7PRQJp6RR7-VP3447cBbbVUoe9TR44o_hWhDaL2iJYhydlKa0w&utm_content=107377518&utm_source=hs_email --> Trending skills to acquire in 2021 in nlp
 - https://www.mygreatlearning.com/blog/machine-learning-interview-questions?utm_source=email&utm_medium=email&utm_campaign=aiml_blog_25jan --> Machine Learning Interview Questions
 - https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/ --> Three Mysteries in deep learning explained by Microsoft
