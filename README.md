@@ -1,6 +1,6 @@
 ** This is not the complete I am updating it as much as possible whenever I am getting the time
 # If you use these repo please star it , it will encourage me to find much more resource
-## In these repo I am maintaining the paper names which I read daily.
+## In these repo I am maintaining the paper names which I read daily
 
 - https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc.
 # ML DL and FL
