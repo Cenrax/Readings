@@ -115,6 +115,10 @@
 - https://towardsdatascience.com/four-deep-learning-papers-to-read-in-march-2021-9d933f52aafa
 - https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0
 
+### April
+
+- https://github.com/likedan/Awesome-CoreML-Models
+
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
