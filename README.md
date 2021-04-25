@@ -79,7 +79,8 @@
 - https://towardsdatascience.com/a-recommendation-engine-that-proposes-recipes-after-taking-photos-of-your-ingredients-de2d314f565d
 - https://towardsdatascience.com/the-tradeoffs-behind-modern-storage-systems-5bf8db680982 --> Tradeoffs Behind Modern Storage Systems
 - https://towardsdatascience.com/ci-cd-by-example-in-python-46f1533cb09d --> CI CD Example in Python
-= https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/ --> LEAF Framework
+- https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/ --> LEAF Framework
+- https://nisargkapkar.hashnode.dev/image-and-video-background-removal-using-deep-learning?utm_source=aidigest&utm_medium=email&utm_campaign=153
 
 ### February
 - https://towardsdatascience.com/real-world-ml-warehouse-recognition-system-7b0e8dee373c ---> Real World ML Warehouse Recognition
