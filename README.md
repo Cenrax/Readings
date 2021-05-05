@@ -121,6 +121,8 @@
 - https://github.com/likedan/Awesome-CoreML-Models
 - https://github.com/rwightman
 
+### May
+- https://hakibenita.com/sql-for-data-analysis
 
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
