@@ -123,7 +123,7 @@
 
 ### May
 - https://hakibenita.com/sql-for-data-analysis
-
+- https://towardsdatascience.com/how-to-synchronize-time-series-datasets-in-python-f3a1826c21c0
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
