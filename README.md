@@ -124,6 +124,7 @@
 ### May
 - https://hakibenita.com/sql-for-data-analysis
 - https://towardsdatascience.com/how-to-synchronize-time-series-datasets-in-python-f3a1826c21c0
+- https://arxiv-miner.turing-bot.com/?utm_source=aidigest&utm_medium=email&utm_campaign=159#/
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
