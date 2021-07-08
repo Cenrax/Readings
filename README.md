@@ -38,6 +38,7 @@
 - https://towardsdatascience.com/five-essential-methods-to-creating-a-great-data-scientist-resume-8c5f377d793b
 - https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/
 - https://facebookresearch.github.io/Kats/
+- https://github.com/yizhangliu/android_env_for_windows
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
