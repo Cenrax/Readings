@@ -40,6 +40,8 @@
 - https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/
 - https://facebookresearch.github.io/Kats/
 - https://github.com/yizhangliu/android_env_for_windows
+- https://openai.com/blog/triton/
+- https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
