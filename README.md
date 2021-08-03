@@ -106,6 +106,7 @@
 - https://opensource.com/article/21/2/kubernetes-namespaces
 - https://towardsdatascience.com/a-hands-on-tutorial-to-continuous-deployment-pipelines-for-ml-based-web-apps-on-google-cloud-ba3957c87bc1
 - https://towardsdatascience.com/end-to-end-deep-learning-a-different-perspective-de9467697bf0 --> 
+- https://app.learney.me/
 
 
 ### March
