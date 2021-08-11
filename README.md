@@ -137,6 +137,7 @@
 - https://www.microsoft.com/en-us/research/blog/how-can-generative-adversarial-networks-learn-real-life-distributions-easily
 - https://engineering.fb.com/2021/06/21/open-source/kats/
 - https://github.com/nschloe/dufte
+- https://github.com/dair-ai/ML-YouTube-Courses
 ## Products
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
