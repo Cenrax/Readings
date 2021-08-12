@@ -142,6 +142,9 @@
 - https://www.salesforce.com/in/products/einstein/overview/
 - https://eng.uber.com/horovod-v0-21/
 
+## High Speed Design
+- http://eyeriss.mit.edu/tutorial.html
+
 ## Workshops
 - https://medium.com/@ODSC/8-game-changing-workshop-sessions-at-odsc-apac-2020-a17eeea2d7aa
 
