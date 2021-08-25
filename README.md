@@ -42,6 +42,7 @@
 - https://github.com/yizhangliu/android_env_for_windows
 - https://openai.com/blog/triton/
 - https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0
+- https://coderrocketfuel.com/courses/build-a-coding-blog
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
