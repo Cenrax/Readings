@@ -1,4 +1,4 @@
-** This is not the complete I am updating it as much as possible whenever I am getting the time.
+** This is not the complete I am updating it as much as possible whenever I am getting the time
 
 # If you use these repo please star it , it will encourage me to find much more resource.
 ## In these repo I am maintaining the paper names which I read daily
