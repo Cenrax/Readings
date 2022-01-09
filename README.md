@@ -45,6 +45,7 @@
 - https://openai.com/blog/triton/
 - https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0
 - https://coderrocketfuel.com/courses/build-a-coding-blog
+- https://howvideo.works/
 
 ## Blogs
 - https://theaisummer.com/normalization/  --> Normalization one place resource
